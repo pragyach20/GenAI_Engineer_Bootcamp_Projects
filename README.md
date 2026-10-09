@@ -4,7 +4,7 @@ Welcome to my **Generative AI Project Portfolio**, featuring five hands-on Pytho
 
 These projects demonstrate practical applications of Generative AI, document retrieval, AI agents, automation, and API integration.
 
-## 🚀 Projects
+##  Projects
 
 ### 1. Local AI Agent
 
@@ -41,7 +41,7 @@ A Python application that integrates AI capabilities with Google Sheets for spre
 * **Technologies:** Python, Google Gemini, Google Sheets API
 * **Repository:** [View Project](https://github.com/pragyach20/Google-Sheets-Manager)
 
-## 🎯 Skills Demonstrated
+##  Skills Demonstrated
 
 * Python programming
 * Generative AI and Large Language Models (LLMs)
@@ -51,7 +51,7 @@ A Python application that integrates AI capabilities with Google Sheets for spre
 * Document processing and information retrieval
 * Interactive AI applications using Gradio
 
-## 👩‍💻 About This Portfolio
+##  About This Portfolio
 
 This portfolio reflects my practical learning journey in Generative AI and Python-based application development. I am continuing to strengthen my skills by building projects that solve real-world problems.
 
